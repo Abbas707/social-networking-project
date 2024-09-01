@@ -1,4 +1,4 @@
-# Social Networking API
+# Social Networking Project :dizzy:	 
 
 This is a Django-based API for a social networking application, which includes functionalities like user login/signup, searching users, sending/accepting/rejecting friend requests, and more. The project is set up with Docker for easy deployment and environment management.
 
@@ -8,7 +8,7 @@ This is a Django-based API for a social networking application, which includes f
 - **Friend Requests:** Send, accept, reject friend requests.
 - **User Search:** Search users by email or name with pagination.
 - **Friend List:** View accepted friends and pending requests.
-- **Database:** MySQL used for persistent storage.
+- **Database:** Postgres used for persistent storage.
 
 ## Requirements
 
@@ -25,7 +25,7 @@ $ git clone https://github.com/Abbas707/social-networking-project.git
 $ cd social-networking-project
 ```
 
-## Local Development :grinning:
+## Local Development :wink:
 ### *If you prefer to run the project locally without Docker*:
 
 ### 1. **Create the virtualenv and install the requirements**:
@@ -58,7 +58,7 @@ We have to create the **.env** at our project level as all the credentials and c
 - `$ python manage.py runserver`
 
 
-## Docker Setup :smiley:
+## Docker Setup :whale2:
 
 ### 1. **Install the docker and docker-compose according to your OS**
 
